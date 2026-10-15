@@ -1,14 +1,19 @@
 # GUARDIAN MCP — Multi-Step Attack & Information Leak Detector
 
 **Hackurity 2026 | Problem Statement:** PS-1 — Guarding the Agent  
-**Team Name:** [Your team name]  
-**Team Members:** [Add all four members]
+**Team Name:** [Visionx]  
+**Team Members:** [https://github.com/chinmayee-s-kumar
+https://github.com/brinda410
+https://github.com/brundhas26
+https://github.com/bulleanusree2006-afk]
 
-## 1. Problem (PS number and title)
+## 1. Problem Statement - 1
+Problem Statement: GUARDING THE AGENT
+Subtitle: Runtime Defence for MCP-Connected AI-Tools
 
-AI agents use tools to read files, access information, and perform actions. Even when individual tool calls appear harmless, a sequence of actions can lead to unauthorized access or sensitive information leakage.
+GUARDIAN MCP is a runtime security gateway designed to protect MCP-connected AI tools by validating tool requests, enforcing least-privilege policies, detecting suspicious multi-step activity, and blocking unauthorized operations before execution.
 
-GUARDIAN MCP is a runtime security gateway designed to inspect tool requests, enforce security policies, detect suspicious activity, and block unauthorized operations before execution.
+The system aims to provide an explainable security decision and an investigation trail through attack tracing, risk scoring, and audit logging. Its protection scope and limitations are documented and demonstrated using controlled test scenarios.
 
 ## 2. What it does
 
@@ -153,12 +158,13 @@ List exact dependency versions from the submitted environment and `requirements.
 
 ## 7. Team members
 
-| Name | Role |
+| Name | 
 |---|---|
-| [Member 1] | [Role] |
-| [Member 2] | [Role] |
-| [Member 3] | [Role] |
-| [Member 4] | [Role] |
+| [Bulle Anusree] |
+| [Brindashree R] | 
+| [Brundha S] | 
+| [Chinmayee S kumar] | 
+
 
 ## Technical Write-up and Demo
 
