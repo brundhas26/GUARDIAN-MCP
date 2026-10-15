@@ -1,0 +1,22 @@
+
+version: 1
+
+default_effect: deny
+
+tools:
+  read_report:
+    effect: allow
+    allowed_filenames:
+      - public.txt
+      - summary.txt
+
+  calculate_total:
+    effect: allow
+    allowed_arguments:
+      - numbers
+
+  send_external:
+    effect: deny
+
+  delete_file:
+    effect: deny

@@ -1,0 +1,2 @@
+This is an internal test report for GUARDIAN MCP.
+It contains sample information for testing data sensitivity controls.

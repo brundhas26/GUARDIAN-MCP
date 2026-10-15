@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+# Backup files
+*.backup
+*_backup.py
+*_before_*.py
+*_old.py
+old app.py
+
+# Generated audit logs
+data/audit/
